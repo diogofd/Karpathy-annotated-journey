@@ -1,5 +1,7 @@
 # I'm learning AI from scratch, the hard way!
 
+![diagram](./assets/diagram.svg)
+
 Welcome to my repo! I am learning AI & ML with Andrej Karpathy, from scratch, and so should you.
 
 Everything in this repo is built from **first principles**. No ML frameworks like PyTorch or Tensorflow allowed! 
