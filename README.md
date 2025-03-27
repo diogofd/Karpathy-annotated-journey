@@ -17,7 +17,7 @@ The goal is to establish a robust and conceptual understanding of neural network
 
 ## Why this exists
 
-I am transitioning from a PhD in pure maths (you can learn more about it [here]([diogofd](https://diogofd.github.io/))) into AI & ML, so this repo is used for:
+I am transitioning from a PhD in pure maths (you can learn more about it [here]([diogofd](https://diogofd.github.io/)) into AI & ML, so this repo is used for:
 - Furthering my code fluency and habits.
 - Sharpening my understading of core tenets of NNs from the ground up.
 - Building a documented foundation for deeper AI research ot engineering work.
