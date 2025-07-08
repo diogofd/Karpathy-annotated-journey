@@ -1,10 +1,7 @@
 # I'm learning AI from scratch, the hard way!
 
-<<<<<<< HEAD
+![diagram](./assets/NNs.png)
 
-=======
-![diagram](./assets/diagram.drawio.svg)
->>>>>>> 6bea7d72681e67bc93fa821a40b081e42c238ca7
 
 Welcome to my repo! I am learning AI & ML with Andrej Karpathy, from scratch, and so should you.
 
